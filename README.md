@@ -33,6 +33,7 @@
 - одним вызовом функции insert вставить элементы: l.insert(l_pos, temp.begin(), temp.end());.
   
 Тестирование: 
+
 <img width="507" height="217" alt="image" src="https://github.com/user-attachments/assets/5319028e-f010-4f25-987f-edabb106a1f6" />
 <img width="505" height="147" alt="image" src="https://github.com/user-attachments/assets/7298f71d-553b-4306-8b46-5bf9b45b0843" />
 
