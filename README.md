@@ -16,7 +16,7 @@
 - вывести последнюю треть в обратном порядке
 
 Тестирование: 
-<img width="697" height="188" alt="image" src="https://github.com/user-attachments/assets/7eb006ec-a859-479e-92e0-b17f3e690226" />
+<img width="697" height="188" alt="image" src="https://github.com/user-attachments/assets/fc7fef7d-53ed-4036-bba6-eada841f28a4" />
 
 
 Задание 2, задача 5
