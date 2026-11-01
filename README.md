@@ -16,6 +16,7 @@
 - вывести последнюю треть в обратном порядке
 
 Тестирование: 
+
 <img width="768" height="119" alt="image" src="https://github.com/user-attachments/assets/3f594935-4927-4972-9619-57e1258f0362" />
 <img width="490" height="240" alt="image" src="https://github.com/user-attachments/assets/2d979b3e-9f62-4957-86b8-ae3636112c78" />
 
