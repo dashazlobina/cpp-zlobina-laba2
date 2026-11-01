@@ -95,7 +95,13 @@ swap_ranges, для второго — алгоритм rotate. Использо
 
 Алгоритм: 
 
+- найти середину первого списка: std::advance(mid1, n / 2); и применить std::swap_ranges(l1.begin(), mid1, mid1);.
+- найти середину второго списка и выполнить циклический сдвиг: std::rotate(l2.begin(), mid2, l2.end());.
+
 Тестирование: 
+
+<img width="479" height="241" alt="image" src="https://github.com/user-attachments/assets/f6a3bb1b-606d-4594-a6c7-099d1a815fb4" />
+<img width="583" height="155" alt="image" src="https://github.com/user-attachments/assets/9fbe01de-0516-4abe-b3ea-d143e4814b59" />
 
 
 Задание 7, задача 2 
