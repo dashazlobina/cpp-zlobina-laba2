@@ -51,13 +51,18 @@ Ai обозначают элементы исходного списка L1, а 
 Тестирование: 
 
 <img width="466" height="197" alt="image" src="https://github.com/user-attachments/assets/0dc5556f-d688-4a12-b7c0-cfce83484fdc" />
+
 Задание 4, задача 5
 Дан набор символов. Вывести все символы из исходного набора в том же порядке, заменяя
 цифровые символы на символ подчеркивания. Использовать алгоритм replace_copy_if.
 
 Алгоритм: 
+- применить алгоритм replace_copy_if с итератором вставки std::back_inserter и лямбда-функцией для проверки на цифру.
+- в лямбда-выражении использовать std::isdigit для определения цифрового символа и заменить его на '_'.
+Тестирование:
 
-Тестирование: 
+<img width="545" height="127" alt="image" src="https://github.com/user-attachments/assets/1afda80f-62e7-4428-9f61-a6887a154f11" />
+<img width="459" height="122" alt="image" src="https://github.com/user-attachments/assets/730d11e2-3f32-4a02-afa4-9879dcb0f814" />
   
 Задание 5, задача 5 
 
