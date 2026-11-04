@@ -115,6 +115,7 @@ swap_ranges, для второго — алгоритм rotate. Использо
 - ввести размер вектора (≥ 3) и заполнить его через итераторы.
 - вызвать std::partial_sort(v.begin(), std::next(v.begin(), 3), v.end()) — сортирует первые три элемента.
 - вывести первые три элемента с помощью std::copy и std::ostream_iterator.
+- 
 Тестирование: 
 
 <img width="671" height="183" alt="image" src="https://github.com/user-attachments/assets/129273f2-c519-4171-815d-3113bf18cb9b" />
@@ -138,6 +139,7 @@ erase для дека D.
 - подсчитать количество векторов, содержащих все элементы V0.
 
 Тестирование: 
+
 <img width="569" height="183" alt="image" src="https://github.com/user-attachments/assets/3da6bc1f-1f2f-4cd5-a993-28fb61bbd425" />
 
 Задание 9, задача 1
@@ -157,6 +159,7 @@ erase для дека D.
 - подсчитать количество векторов, содержащих все элементы V0.
   
 Тестирование: 
+
 <img width="520" height="355" alt="image" src="https://github.com/user-attachments/assets/4661d801-1ed0-4431-a17a-ebdee5c776cb" />
 
 Задание 10, задача 1 
@@ -177,6 +180,8 @@ erase для дека D.
 - создать std::map<int, int>.
 - в цикле по вектору инкрементировать значение для каждого элемента: ++m[*it];.
 - вывести элементы map (автоматически упорядочены по возрастанию ключа), перебирая их итератором.
+  
 Тестирование: 
+
 <img width="493" height="251" alt="image" src="https://github.com/user-attachments/assets/157366a6-2f4e-4036-b134-9046468adbdb" />
 
